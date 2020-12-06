@@ -1,6 +1,6 @@
 # Reply gang
 
->Who replies to your tweets? Let's plot it.
+>Who replies to your tweets?
 
 ## Getting started
 
